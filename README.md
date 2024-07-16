@@ -13,7 +13,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there!</h1>
 
 ###
 
@@ -108,3 +108,6 @@
 
 -->
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=limbanga&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  />
+</div>
