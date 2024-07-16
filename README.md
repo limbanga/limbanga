@@ -23,8 +23,20 @@
 - If you're also interested in learning programming, let's code together.
 - My Facebook is [Huỳnh Thanh Liêm](https://www.facebook.com/profile.php?id=100014969651184)
 
-###
+```js
+{
+  name: 'Huỳnh Thanh Liêm',
+  dob: '03/14/2003',
+  hobbies: [
+    'play game',
+    'watch tivi'
+  ]
+}
+```
 
+
+###
+<!--
 <h3 align="left">🛠 Language and tools that I have learned</h3>
 
 ###
@@ -94,4 +106,5 @@
 
 ### 
 
+-->
 
