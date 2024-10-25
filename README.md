@@ -16,12 +16,13 @@
 <h1 align="center">Hey there!</h1>
 
 ###
-
+<!--
 <p align="left">I'm Huỳnh Thanh Liêm, a student in the Software Engineering major.</p>
 
 - I like to create interesting applications in an innovative way.
 - If you're also interested in learning programming, let's code together.
 - My Facebook is [Huỳnh Thanh Liêm](https://www.facebook.com/profile.php?id=100014969651184)
+-->
 
 ```js
 {
@@ -30,7 +31,11 @@
   hobbies: [
     'play game',
     'watch tivi'
+  ],
+  hehe: [
+  'fluency is more important than pronunciation'
   ]
+  
 }
 ```
 
