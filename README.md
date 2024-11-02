@@ -25,7 +25,7 @@
     'play game',
     'watch tivi'
   ],
-  hehe: [
+  mantra: [
   'fluency is more important than pronunciation',
   'keep up your good work.'
   ]
