@@ -20,8 +20,7 @@
     'watch tivi'
   ],
   mantra: [
-  'fluency is more important than pronunciation',
-  'keep up your good work.'
+  'Great things are on the horizon.'
   ]
   
 }
