@@ -16,22 +16,21 @@
   name: 'Huỳnh Thanh Liêm',
   dob: '03/14/2003',
   hobbies: [
-    'play game',
-    'watch tivi'
+    'playing games',
+    'watching tivi',
+    'planting trees and flowers',
+    'reading books'
   ],
   mantra: [
   'Great things are on the horizon.'
+  ],
+  projects: [
+    {
+      name: 'Images cloud and editing with AI',
+      previewUrl: '',
+      role: 'Fullstack',
+      teamSize: 2
+    }
   ]
-  
 }
 ```
-
-
-###
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=limbanga&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limbanga&layout=donut&theme=radical" />
-</div>
