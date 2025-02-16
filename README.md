@@ -17,8 +17,8 @@
   dob: '03/14/2003',
   hobbies: [
     'playing games',
-    'watching tivi',
-    'planting trees and flowers',
+    'watching TV',
+    'growing trees and flowers',
     'reading books'
   ],
   mantra: [
@@ -26,9 +26,9 @@
   ],
   projects: [
     {
-      name: 'Images cloud and editing with AI',
+      name: 'Cloud-based Image Storage and AI Editing',
       previewUrl: '',
-      role: 'Fullstack',
+      role: 'Full-stack Developer',
       teamSize: 2
     }
   ]
