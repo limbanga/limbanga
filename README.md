@@ -8,7 +8,7 @@
 
 <!-- VISITOR -->
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=limbanga.limbanga"  />
+<!--   <img src="https://visitor-badge.laobi.icu/badge?page_id=limbanga.limbanga"  /> -->
 </div>
 
 ```js
@@ -27,7 +27,8 @@
   projects: [
     {
       name: 'Cloud-based Image Storage and AI Editing',
-      previewUrl: '',
+      previewUrl: 'http://snapsphere-two.vercel.app/',
+      linkRepo: 'https://github.com/GiaHuyz/snapsphere',
       role: 'Full-stack Developer',
       teamSize: 2
     }
